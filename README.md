@@ -1,6 +1,6 @@
 # Kasir Ageng - Aplikasi Point of Sale Modern
 
-![Tangkapan Layar Dasbor Kasir Ageng](https://i.imgur.com/gKqf8uA.jpeg)
+![Tangkapan Layar Dasbor Kasir Ageng](https://imgur.com/a/JpFSKj1)
 
 **Kasir Ageng** adalah aplikasi web Point of Sale (POS) atau aplikasi kasir lengkap yang dibangun dari nol menggunakan teknologi modern. Aplikasi ini dirancang untuk menjadi portofolio yang menunjukkan pemahaman mendalam tentang pengembangan web *full-stack*, mulai dari manajemen data di *backend* hingga antarmuka yang interaktif di *frontend*.
 
