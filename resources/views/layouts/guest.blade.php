@@ -26,7 +26,7 @@
                     <span class="text-4xl font-bold">Kasir Ageng</span>
                 </a>
                 <p class="text-center text-indigo-200 text-lg max-w-sm">
-                    Aplikasi Point of Sale modern untuk mengelola bisnis Anda dengan mudah dan efisien.
+                    Aplikasi Program Sederhana 
                 </p>
             </div>
 

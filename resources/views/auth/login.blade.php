@@ -41,7 +41,7 @@
         <div class="flex items-center justify-between mt-4">
             <label for="remember_me" class="inline-flex items-center">
                 <input id="remember_me" type="checkbox" class="rounded border-gray-300 text-blue-600 shadow-sm focus:ring-blue-500" name="remember">
-                <span class="ml-2 text-sm text-gray-600">{{ __('Ingat saya') }}</span>
+                <span class="ml-2 text-sm text-gray-600">{{ __('Ingatkan saya') }}</span>
             </label>
 
             @if (Route::has('password.request'))
@@ -53,7 +53,7 @@
 
         <div class="flex flex-col items-center mt-6">
             <x-primary-button class="w-full flex justify-center">
-                {{ __('Masuk') }}
+                {{ __('Login') }}
             </x-primary-button>
 
             <p class="mt-4 text-sm text-gray-600">
